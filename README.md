@@ -1,18 +1,17 @@
-### Hi, I'm Diljith!
+### Hello world! I'm Diljith!
 
-![Tada](https://github.com/diljithbalakrishnan/tenor.gif)
 
-<!--
-**diljithbalakrishnan/diljithbalakrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!-- **diljithbalakrishnan/diljithbalakrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... QUBE CINEMA INC
+- 🌱 I’m currently learning ... Testing
+- 👯 I’m looking to collaborate on ... Python
+- 🤔 I’m looking for help with ... Testing
+- 💬 Ask me about ... Ask me anything
+- 📫 How to reach me: ...  [Diljith.com](https://diljithbalakrishnan.github.io/)
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... I am half finnish -->
+
