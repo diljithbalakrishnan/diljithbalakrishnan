@@ -1,5 +1,7 @@
 ### Hi, I'm Diljith!
 
+![Tada](https://github.com/diljithbalakrishnan/tenor.gif)
+
 <!--
 **diljithbalakrishnan/diljithbalakrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
