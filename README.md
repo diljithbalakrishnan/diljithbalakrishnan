@@ -1,4 +1,5 @@
-### Hello world! I'm Diljith!
+<h1 align="center">Hello World👋, I'm Diljith</h1>
+<h3 align="center">This is the place where I test, break and learn stuff.</h3>
 
 
 
